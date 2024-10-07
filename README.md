@@ -1,4 +1,4 @@
-**LangChain Demo ChatBot using Llama 2 via Ollama**
+**LangChain Demo ChatBot using Llama 2 via Ollama**:
     This repository contains a simple demo chatbot built using the LangChain community package, accessing the open-source Llama 2 model through Ollama. The chatbot is designed to respond to user queries in natural language.
 
 
